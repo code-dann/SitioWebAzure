@@ -1,0 +1,40 @@
+C:\Users\danie\Documents\Web Azure\Code Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\danie\Documents\Web Azure\Code Web\bin\Debug\net5.0\appsettings.json
+C:\Users\danie\Documents\Web Azure\Code Web\bin\Debug\net5.0\Code Web.exe
+C:\Users\danie\Documents\Web Azure\Code Web\bin\Debug\net5.0\Code Web.deps.json
+C:\Users\danie\Documents\Web Azure\Code Web\bin\Debug\net5.0\Code Web.runtimeconfig.json
+C:\Users\danie\Documents\Web Azure\Code Web\bin\Debug\net5.0\Code Web.runtimeconfig.dev.json
+C:\Users\danie\Documents\Web Azure\Code Web\bin\Debug\net5.0\Code Web.dll
+C:\Users\danie\Documents\Web Azure\Code Web\bin\Debug\net5.0\ref\Code Web.dll
+C:\Users\danie\Documents\Web Azure\Code Web\bin\Debug\net5.0\Code Web.pdb
+C:\Users\danie\Documents\Web Azure\Code Web\bin\Debug\net5.0\Code Web.Views.dll
+C:\Users\danie\Documents\Web Azure\Code Web\bin\Debug\net5.0\Code Web.Views.pdb
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Code Web.csprojAssemblyReference.cache
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Code Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Code Web.AssemblyInfoInputs.cache
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Code Web.AssemblyInfo.cs
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Code Web.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Code Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Code Web.RazorAssemblyInfo.cache
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Code Web.RazorAssemblyInfo.cs
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\staticwebassets\Code Web.StaticWebAssets.Manifest.cache
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\staticwebassets\Code Web.StaticWebAssets.xml
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\scopedcss\bundle\Code Web.styles.css
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Code Web.TagHelpers.input.cache
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Code Web.TagHelpers.output.cache
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Code Web.RazorCoreGenerate.cache
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Code Web.RazorTargetAssemblyInfo.cache
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Code Web.RazorTargetAssemblyInfo.cs
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Code Web.Views.pdb
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Code Web.dll
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\ref\Code Web.dll
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Code Web.pdb
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Code Web.genruntimeconfig.cache
+C:\Users\danie\Documents\Web Azure\Code Web\obj\Debug\net5.0\Code Web.csproj.CopyComplete
